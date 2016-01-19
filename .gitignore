@@ -1,0 +1,11 @@
+/.idea
+copy_this/*
+!/ReadMe.txt
+!copy_this/admin/includes/boxes/osfeed.php
+!copy_this/admin/includes/languages/deutsch/osdatafeed.php
+!copy_this/admin/includes/languages/english/osdatafeed.php
+!copy_this/admin/includes/languages/russian/osdatafeed.php
+!copy_this/datafeed/*
+!copy_this/includes/modules/tracking_pixel/*
+!copy_this/oscommerceview.php
+!copy_this/admin/osdatafeed.php
